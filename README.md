@@ -15,8 +15,7 @@ With this method, you can create as many RDPs as you want through Github.
 
 > Inside this Repo Go to Settings> Secrets> New repository secret
 
-> Fill in the Name: Enter NGROK_AUTH_TOKEN
-
+> Fill in the Name: Enter 2wdfBEkqt1YdWa0sYoFZJJlsMY7_U1Euh1f2tByA1XEJFnbz
 > Fill in Value: Visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste in the value
 
 > Press Add secret 
